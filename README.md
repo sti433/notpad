@@ -1,4 +1,5 @@
-#📝 Notpad
+#Notpad📝
+📝 Notpad
 Notpad is a lightweight and simple text editor built with C# and Windows Forms.
 It simulates the classic Windows Notepad with essential text editing features.
 
